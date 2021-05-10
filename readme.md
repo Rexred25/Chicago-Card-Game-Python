@@ -8,11 +8,11 @@
 
 * You have runs, which are where any four or more cards in a row that share the same color and suit. 
 
-* For example, a 2, 3, 4, 5 of spades in red is considered a run. 
+  * For example, a 2, 3, 4, 5 of spades in red is considered a run. 
 
 * Next, there are sets, which are any three or more cards that are the same rank, but they can be any color. 
 
-* For example, a 3, 3, 3 of spades and hearts in red and black. 
+  * For example, a 3, 3, 3 of spades and hearts in red and black. 
 
 * There are 6 rounds of Chicago, where the first round is two sets, the second round is two runs, the third round is two sets and a run, 
   * the fourth round is two runs and a set, the fifth round is three sets, and the final and sixth round is three runs. 
@@ -27,9 +27,9 @@
 
 * The scoring system of Chicago is very simple. 
 
-* When someone goes out at the end of the round, everyone else has to count the number of cards in your hand. 
+  * When someone goes out at the end of the round, everyone else has to count the number of cards in your hand. 
 
-* A 2 through 9 is five points, a 10, Jack, Queen, and King is ten points, an Ace is fifteen points, and a Joker is fifty points. 
+  * A 2 through 9 is five points, a 10, Jack, Queen, and King is ten points, an Ace is fifteen points, and a Joker is fifty points. 
 
-* A Joker is considered a blank card, where it can be anything the player decides it to be, but if put down with a 
-  * set that Joker is considered dead and cannot be used anywhere else for the remainder of that round. 
+  * A Joker is considered a blank card, where it can be anything the player decides it to be, but if put down with a 
+   * set that Joker is considered dead and cannot be used anywhere else for the remainder of that round. 
