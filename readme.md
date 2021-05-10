@@ -1,3 +1,6 @@
+* The zip file is an executable of the game. Once you unzip it, keep everything in the same folder, and the game should run just fine.
+* The *chicago.py* file is just the straight code to run the game
+
 * The rules of Chicago are straightforward. A good comparison to Chicago would be the game Rummy 500. 
 
 * Generally, a game of Chicago can take anywhere from forty-five minutes to an hour and twenty minutes. 
